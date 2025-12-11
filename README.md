@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GaB03l
 - 👀 I’m interested in learning everithing i can and contribute with what is possible
-- 🌱 I’m currently learning Python/HTML/CSS/JS and GitHub!
-- 💞️ I’m looking to collaborate on a ROS project i'm about to dive in to!!
+- 🌱 I’m currently on a ROS project named RAUL!
 - 😄 Pronouns: Any one is fine
 
 <!---
